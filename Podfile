@@ -5,5 +5,5 @@ source 'https://github.com/IOSMoyun/ModularizationPod.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
 target 'AccountModule_Category' do
-
+pod 'CTMediator'
 end
